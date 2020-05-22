@@ -3,13 +3,13 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "14abb44c597527d42fd0dbadd0374ca1",
 "/": "14abb44c597527d42fd0dbadd0374ca1",
-"main.dart.js": "ff586cdd0bb1c56ba17f3119096a2149",
+"main.dart.js": "acf8b78502ddc5ace4b6e45decf347ef",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "c7c4dab7d24d6fec764e465955f15e9e",
 "assets/LICENSE": "412a5e2c28af1d191828acda59d0d561",
-"assets/AssetManifest.json": "8362420200b2f963d5a0d6780a8fbde0",
+"assets/AssetManifest.json": "5bd643b77ca51d322a7db75eb4cf6aae",
 "assets/FontManifest.json": "94a2494f1e7ff74a7d0b6cf4f3d4e39d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_icons/fonts/Octicons.ttf": "73b8cff012825060b308d2162f31dbb2",
@@ -30,6 +30,7 @@ const RESOURCES = {
 "assets/packages/flutter_icons/fonts/MaterialIcons.ttf": "a37b0c01c0baf1888ca812cc0508f6e2",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/assets/pic3.png": "f218b8cf60d727b66ca37b621c757c34",
+"assets/assets/pic4.png": "0a6228e3bb68430098ab8b73df7252a8",
 "assets/assets/pic.png": "28c827ddf636dbfd76cbe9dd0b31b5b9"
 };
 

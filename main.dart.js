@@ -40001,9 +40001,9 @@ A.vm.prototype={
 I:function(a){var t,s,r,q,p,o,n=null,m=new L.dC("Jaime\nHern\xe1ndez.",n,n)
 m.bd$=m
 m.bn$=$.k_()
-m=m.hU(m,4)
+m=m.hU(m,3)
 m.z=1
-m.f=new V.e_(F.aQ(a,!1)).geQ()===C.aO?12:20
+m.f=new V.e_(F.aQ(a,!1)).geQ()===C.aO?10:20
 m.c=C.aM
 t=T.U0(m.b9(),C.vD)
 m=u.E
@@ -40071,7 +40071,7 @@ o[3]=0
 o[7]=0
 o[11]=0
 r=F.aQ(a,!1).a
-return T.a2S(C.aZ,new U.oe(M.a2s(q,q,new L.n6("assets/pic.png",q,q)),r.b/100*60,C.mQ,q),new P.u(p.a/100*2,0),new E.b2(o),!0)}}
+return T.a2S(C.aZ,new U.oe(M.a2s(q,q,new L.n6("assets/pic4.png",q,q)),r.b/100*60,C.mQ,q),new P.u(p.a/100*2,0),new E.b2(o),!0)}}
 A.pY.prototype={
 I:function(a){var t=null
 return N.WG(H.b([new O.mG(L.oc(C.tE,C.j,t),new A.Mh()).b9(),new T.aL(20,t,t,t),new O.mG(L.oc(C.tC,C.j,t),new A.Mi()).b9(),new T.aL(20,t,t,t),new O.mG(L.oc(C.tD,C.j,t),new A.Mj()).b9(),new T.aL(20,t,t,t),new O.mG(L.oc(C.tA,C.j,t),new A.Mk()).b9()],u.E),t)}}
