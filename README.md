@@ -1,2 +1,0 @@
-# devjaime.github.io
-portfolio
